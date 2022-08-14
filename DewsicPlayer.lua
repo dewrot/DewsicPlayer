@@ -18,6 +18,7 @@ term.setTextColor(colors.white)
 print("Dewsic Player Version 1.1")
 print("Modified version of LimewireCC v2.1 by AstoriaCC")
 print("This code is Zlib licensed.")
+print("")
 
 if drive == nil then
     print("Please attach a floppy drive and insert blank floppy to continue...")
